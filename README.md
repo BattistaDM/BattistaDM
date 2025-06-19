@@ -33,12 +33,6 @@ I'm particularly interested in **algorithmic trading strategies** and **high-fre
 
 ---
 
-### 🎯 What I'm Working On
-
-**Financial Data Fetcher & Visualizer**: I'm currently building a foundational tool using Python that fetches historical stock data from the `yfinance` API. The script processes the data with `pandas` and generates visualizations of price action and trading volume using `matplotlib`. This project serves as the cornerstone for developing and backtesting more complex quantitative strategies.
-
----
-
 ### 💡 Fun Fact
 
 *"I believe the best quantitative analysts understand not just the math behind the models, but also the economic forces and regulatory frameworks that drive market behavior. Oh, and that a strong body supports a strong mind - hence my love for the gym!"*
